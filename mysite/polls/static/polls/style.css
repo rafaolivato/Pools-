@@ -1,0 +1,51 @@
+li a {
+    color: rgb(241, 247, 244);
+    font-weight: 12;
+    font-size: 30;
+}
+
+
+h1 {
+    color: darkblue
+}
+
+body {
+
+    background: url("images/background.jpg") no-repeat;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2 {
+    color: #333399;
+}
+
+p,
+a {
+    color: #665544
+}
+
+blockquote {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.footer {
+    text-align: center;
+}
+
+header
+{
+    min-height:4em;
+    background-color: darkslategray;
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+    color: white
+}
